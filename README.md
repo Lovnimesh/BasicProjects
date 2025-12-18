@@ -1,5 +1,5 @@
 # BasicProjects
-📦 Basic Projects
+📦 Basic Projects (V)
 📖 About
 
 This repository contains my basic beginner-level projects that I built during my initial stage of learning.
@@ -9,28 +9,39 @@ This repo acts as my starter archive, and I want to preserve it as a reminder of
 
 🎯 Purpose of This Repository
 
--> To store my first hands-on projects
--> To strengthen fundamental concepts
--> To track my growth as a developer
--> To keep my starter work safe and organized
--> To revisit basics whenever needed
+To store my first hands-on projects
+
+To strengthen fundamental concepts
+
+To track my growth as a developer
+
+To keep my starter work safe and organized
+
+To revisit basics whenever needed
 
 🛠️ Technologies Used
 
 Depending on the project, this repository may include:
+
 HTML / CSS / JavaScript
-C / Python
+
+C / C++ / Python
+
 Basic frontend & backend experiments
 
 Simple logic-building programs
 
 🚀 Why This Repo Matters
 
--> Every advanced project starts with basic steps.
--> These projects may look small, but they:
--> Built my problem-solving mindset
--> Helped me understand core programming concepts
--> Laid the foundation for my future projects
+Every advanced project starts with basic steps.
+
+These projects may look small, but they:
+
+Built my problem-solving mindset
+
+Helped me understand core programming concepts
+
+Laid the foundation for my future projects
 
 I don’t want to lose this repository because it represents the starting point of my journey.
 
